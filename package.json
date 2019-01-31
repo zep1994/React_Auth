@@ -1,0 +1,25 @@
+{
+  "name": "react_auth",
+  "version": "1.0.0",
+  "description": "\"# React_Auth\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zep1994/React_Auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zep1994/React_Auth/issues"
+  },
+  "homepage": "https://github.com/zep1994/React_Auth#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.8",
+    "morgan": "^1.9.1"
+  }
+}
